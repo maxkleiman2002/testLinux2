@@ -1,4 +1,3 @@
-# Ability
+# Search
 
-Viewing products
-Cart
+Product search is supported
