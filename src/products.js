@@ -1,5 +1,5 @@
 const products = [
-	{ id: 1. name: "Laptop", price: 1200},
+	{ id: 1. name: "Laptop", price: 3200},
 	{ id: 2, name: "Phone", price: 1400}
 	];
 
