@@ -1,3 +1,4 @@
-# Git Practice Shop
+# Ability
 
-Study project for Git practice.
+Viewing products
+Cart
